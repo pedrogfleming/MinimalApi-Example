@@ -25,4 +25,6 @@ app.MapGet("/photos", async () =>
     return body;
 });
 
+
+
 app.Run();
